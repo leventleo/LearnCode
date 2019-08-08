@@ -1,0 +1,9 @@
+C:\Users\CODER\source\repos\LearnCode\LearnCode.Security\bin\Debug\netcoreapp2.1\LearnCode.Security.deps.json
+C:\Users\CODER\source\repos\LearnCode\LearnCode.Security\bin\Debug\netcoreapp2.1\LearnCode.Security.dll
+C:\Users\CODER\source\repos\LearnCode\LearnCode.Security\bin\Debug\netcoreapp2.1\LearnCode.Security.pdb
+C:\Users\CODER\source\repos\LearnCode\LearnCode.Security\obj\Debug\netcoreapp2.1\LearnCode.Security.csproj.CoreCompileInputs.cache
+C:\Users\CODER\source\repos\LearnCode\LearnCode.Security\obj\Debug\netcoreapp2.1\LearnCode.Security.AssemblyInfoInputs.cache
+C:\Users\CODER\source\repos\LearnCode\LearnCode.Security\obj\Debug\netcoreapp2.1\LearnCode.Security.AssemblyInfo.cs
+C:\Users\CODER\source\repos\LearnCode\LearnCode.Security\obj\Debug\netcoreapp2.1\LearnCode.Security.dll
+C:\Users\CODER\source\repos\LearnCode\LearnCode.Security\obj\Debug\netcoreapp2.1\LearnCode.Security.pdb
+C:\Users\CODER\source\repos\LearnCode\LearnCode.Security\obj\Debug\netcoreapp2.1\LearnCode.Security.csprojAssemblyReference.cache

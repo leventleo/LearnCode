@@ -1,0 +1,16 @@
+C:\Users\CODER\source\repos\LearnCode\LearnCode.Bussiness\bin\Release\netcoreapp2.1\LearnCode.Bussiness.deps.json
+C:\Users\CODER\source\repos\LearnCode\LearnCode.Bussiness\bin\Release\netcoreapp2.1\LearnCode.Bussiness.dll
+C:\Users\CODER\source\repos\LearnCode\LearnCode.Bussiness\bin\Release\netcoreapp2.1\LearnCode.Bussiness.pdb
+C:\Users\CODER\source\repos\LearnCode\LearnCode.Bussiness\bin\Release\netcoreapp2.1\LearnCode.DataAccess.dll
+C:\Users\CODER\source\repos\LearnCode\LearnCode.Bussiness\bin\Release\netcoreapp2.1\LearnCode.Entities.dll
+C:\Users\CODER\source\repos\LearnCode\LearnCode.Bussiness\bin\Release\netcoreapp2.1\Microsoft.AspNetCore.SignalR.Core.dll
+C:\Users\CODER\source\repos\LearnCode\LearnCode.Bussiness\bin\Release\netcoreapp2.1\LearnCode.DataAccess.pdb
+C:\Users\CODER\source\repos\LearnCode\LearnCode.Bussiness\bin\Release\netcoreapp2.1\LearnCode.Entities.pdb
+C:\Users\CODER\source\repos\LearnCode\LearnCode.Bussiness\bin\Release\netcoreapp2.1\Microsoft.AspNetCore.SignalR.Core.xml
+C:\Users\CODER\source\repos\LearnCode\LearnCode.Bussiness\obj\Release\netcoreapp2.1\LearnCode.Bussiness.csprojAssemblyReference.cache
+C:\Users\CODER\source\repos\LearnCode\LearnCode.Bussiness\obj\Release\netcoreapp2.1\LearnCode.Bussiness.csproj.CoreCompileInputs.cache
+C:\Users\CODER\source\repos\LearnCode\LearnCode.Bussiness\obj\Release\netcoreapp2.1\LearnCode.Bussiness.AssemblyInfoInputs.cache
+C:\Users\CODER\source\repos\LearnCode\LearnCode.Bussiness\obj\Release\netcoreapp2.1\LearnCode.Bussiness.AssemblyInfo.cs
+C:\Users\CODER\source\repos\LearnCode\LearnCode.Bussiness\obj\Release\netcoreapp2.1\LearnCode.Bussiness.csproj.CopyComplete
+C:\Users\CODER\source\repos\LearnCode\LearnCode.Bussiness\obj\Release\netcoreapp2.1\LearnCode.Bussiness.dll
+C:\Users\CODER\source\repos\LearnCode\LearnCode.Bussiness\obj\Release\netcoreapp2.1\LearnCode.Bussiness.pdb

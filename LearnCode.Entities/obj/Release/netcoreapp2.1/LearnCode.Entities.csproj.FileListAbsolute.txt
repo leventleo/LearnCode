@@ -1,0 +1,9 @@
+C:\Users\CODER\source\repos\LearnCode\LearnCode.Entities\bin\Release\netcoreapp2.1\LearnCode.Entities.deps.json
+C:\Users\CODER\source\repos\LearnCode\LearnCode.Entities\bin\Release\netcoreapp2.1\LearnCode.Entities.dll
+C:\Users\CODER\source\repos\LearnCode\LearnCode.Entities\bin\Release\netcoreapp2.1\LearnCode.Entities.pdb
+C:\Users\CODER\source\repos\LearnCode\LearnCode.Entities\obj\Release\netcoreapp2.1\LearnCode.Entities.csprojAssemblyReference.cache
+C:\Users\CODER\source\repos\LearnCode\LearnCode.Entities\obj\Release\netcoreapp2.1\LearnCode.Entities.csproj.CoreCompileInputs.cache
+C:\Users\CODER\source\repos\LearnCode\LearnCode.Entities\obj\Release\netcoreapp2.1\LearnCode.Entities.AssemblyInfoInputs.cache
+C:\Users\CODER\source\repos\LearnCode\LearnCode.Entities\obj\Release\netcoreapp2.1\LearnCode.Entities.AssemblyInfo.cs
+C:\Users\CODER\source\repos\LearnCode\LearnCode.Entities\obj\Release\netcoreapp2.1\LearnCode.Entities.dll
+C:\Users\CODER\source\repos\LearnCode\LearnCode.Entities\obj\Release\netcoreapp2.1\LearnCode.Entities.pdb

@@ -1,0 +1,2 @@
+C:\Users\CODER\source\repos\LearnCode\lessonMVCTest\obj\Debug\lessonMVCTest.csprojAssemblyReference.cache
+C:\Users\CODER\source\repos\LearnCode\lessonMVCTest\obj\Debug\lessonMVCTest.csproj.CoreCompileInputs.cache
